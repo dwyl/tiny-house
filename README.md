@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tiny House
+# Tiny House On Wheels
 
 [![Dependencies: None](https://img.shields.io/badge/dependencies-none-brightgreen.svg?style=flat-square)](https://libraries.io/hex/envar "Zero Dependencies")
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/dwyl/envar/issues)
@@ -103,7 +103,12 @@ including all the furniture.
 
 # _Who?_ 👪
 
+This repo is for us to collect our research.
+It's not meant as a tutorial 
+or "how to".
 
+If you find it useful,
+please ⭐ on GitHub. 
 
 # How?
 
@@ -124,4 +129,8 @@ we are working with.
 Please add your features/ideas 💡
 by commenting on the issue: [tiny-house/issues/**24**](https://github.com/dwyl/tiny-house/issues/24) 💬 
 
-## 
+## Base: 2550 x 7200mm 3.5Ton Road-legal Trailer
+
+Research for available trailer suppliers in: 
+[tiny-house/issues/**28**](https://github.com/dwyl/tiny-house/issues/28)
+
